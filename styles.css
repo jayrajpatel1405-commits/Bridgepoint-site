@@ -416,4 +416,5 @@ section{ position:relative; }
   .sol-emph{ flex-direction:column; align-items:flex-start; }
   .hero .hero-cta{ flex-direction:column; align-items:stretch; }
   .hero .hero-cta .btn{ width:100%; }
+   * { opacity: 1 !important; animation: none !important; transform: none !important; }
 }
